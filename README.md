@@ -1,2 +1,2 @@
 # python-learning
-python learning repository
+Python learning.
